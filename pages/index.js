@@ -31,7 +31,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        Powered by Imagination and Unicorns
+        Powered by Imaginations
       </footer>
     </div>
   )
